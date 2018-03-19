@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Rust and C++ developer from Ukraine.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Ex-gamedev, currently blockchain dev
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[konchunas@gmail.com](mailto:konchunas@gmail.com)
