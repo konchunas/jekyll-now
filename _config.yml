@@ -11,6 +11,7 @@ description: Developer
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/4216701
 
+remote_theme: alexcarpenter/material-jekyll-theme
 #
 # Flags below are optional
 #
