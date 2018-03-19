@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Here be dragons!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Hey, I'm Rust and C++ developer from Ukraine.
+I used to develop games and even took part in Far Cry 5 development.
+But now I'm all into blockchain development.
+Find my profile on github down below and check out Rustheus repo if you want to see my code.
