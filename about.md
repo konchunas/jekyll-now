@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Rust and C++ developer from Ukraine.
+I'm Rust and Python (formerly C++) developer from Ukraine.
 
 ### More Information
 
